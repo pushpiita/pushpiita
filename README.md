@@ -1,0 +1,70 @@
+<h1 align="center">Hi 👋, I'm Pushpita Dhar</h1>
+
+<p align="center">
+🎓 CSE Student | 💻 Android & Web Developer | 🧠 AI/ML Enthusiast | 🎙️ Debater | CP Enthusiast 
+</p>
+
+---
+
+### 📫 Reach Me At
+
+- ✉️ Email: pushpitadhar59@gmail.com  
+
+
+---
+
+### 👩‍💻 About Me
+
+I'm a final-year **Computer Science and Engineering** student at **Leading University**, passionate about building mobile apps and exploring AI technologies. I love solving problems, building intuitive user experiences, and blending logic with creativity.
+
+Currently working on academic and personal projects in the fields of **flower recognition**, **pharmacy management**, and **web design**.
+
+---
+
+### 🌱 Projects
+
+- 📷 **Flower Lens** – A flower recognition app using **VGG16 + TensorFlow Lite**, supports camera/photo upload and user search history.  
+- 💊 **MedTrack** – Android-based pharmacy stock and sales manager with login system, sell activity, and account view.  
+- 🌐 **LUDC Website** – Static HTML site for the **Leading University Debating Club**.
+
+---
+
+### 🧠 Research
+
+- 📄 **Review Paper (Unpublished)**  
+  *A comprehensive review on deep learning techniques for flower classification*, supervised by **Shahriar Arefin Zummon**.  
+  Covered over **25+ research papers**, explored CNNs, image preprocessing, and mobile deployment.
+
+---
+
+### 🛠️ Technologies & Tools
+
+**Languages:**  
+C, C++, Java, Python, HTML, CSS, JavaScript,PHP  
+
+**Frameworks & Tools:**  
+Android Studio, React Native, Firebase, Git, Tailwind, Bootstrap   
+
+**AI/ML:**  
+TensorFlow, Overleaf, Jupyter Notebooks  
+
+**Other Tools:**  
+Figma, Canva, Google Colab, GitHub Pages
+
+---
+
+### 🎯 Activities & Interests
+
+ 
+- 🖋️ Involved in writing, design, and student-led initiatives  
+
+
+---
+
+### 📈 GitHub Stats *(Optional)*
+
+![Pushpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushpiita&show_icons=true&theme=radical)
+
+---
+
+

@@ -41,7 +41,7 @@ I’m passionate about using technology to solve real-world problems. As a Compu
 C, C++, Java, Python, HTML, CSS, JavaScript,PHP  
 
 **Frameworks & Tools:**  
-Android Studio, React Native, Firebase, Git, Tailwind, Bootstrap   
+Android Studio, React Native, Firebase, Git, Bootstrap   
 
 **AI/ML:**  
 TensorFlow, Overleaf, Jupyter Notebooks  

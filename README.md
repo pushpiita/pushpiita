@@ -15,9 +15,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a final-year **Computer Science and Engineering** student at **Leading University**, passionate about building mobile apps and exploring AI technologies. I love solving problems, building intuitive user experiences, and blending logic with creativity.
-
-Currently working on academic and personal projects in the fields of **flower recognition**, **pharmacy management**, and **web design**.
+I’m passionate about using technology to solve real-world problems. As a Computer Science and Engineering student, I focus on Android and web development while actively exploring Artificial Intelligence and Machine Learning. I have a strong foundation in data structures and algorithms, built through experience in competitive programming. I’ve also worked on Natural Language Processing in academic contexts. Currently, I’m developing a pharmacy management Android app and a deep learning-based flower recognition system.
 
 ---
 
